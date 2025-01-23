@@ -1,7 +1,7 @@
 ## Hi, this is Brian <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I'm a full stack developer with expertise in multiple programming languages including JavaScript (ES2015+), TypeScript, PHP,
-Python, GraphQL, HTML5, CSS3, SQL, Java, Solidity, Rust.<br/>
+Python, GraphQL, HTML5, CSS3, SQL, Java, Solidity, Rust, React, Node.js, AWS, SpringBoot, AI and Blockchain.<br/>
 With proficiency in a range of databases such as MySQL, MongoDB, and PostgreSQL, I'm well-versed in building scalable and efficient web applications.<br/>
 Additionally, I've worked with cloud platforms like AWS and Firebase to deploy and manage projects efficiently.
 <!--
